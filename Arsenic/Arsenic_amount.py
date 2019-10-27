@@ -169,14 +169,6 @@ for year in range(0,years):
     Last_Last = Last
     Last = prediction[0]
 
-pred
-
-regressor.predict([[1.94183821, 1.93916139]])
-
-regressor.predict(Predicts)
-
-
-
 import numpy as np
 years = 2025 - 2013
 Last = df_x_m.loc['2019-1-31']
